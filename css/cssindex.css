@@ -1,0 +1,59 @@
+.navbar.navbar-expand-lg{
+    padding-left: 125px;
+}
+
+
+.purple{
+    color: #543767;
+}
+
+.orange{
+    color: #f77b79;
+}
+
+.blue{
+    color: #8384b2;
+}
+
+.bts{
+    border: #8384b2 1px solid;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+
+#buy{
+    margin-left: 30px;
+}
+
+a.bts.blue:hover{
+    color: white;
+    background-color: #f77b79;
+    text-decoration: none;
+}
+
+a.nav-link.blue:hover{
+    text-decoration: none;
+    color: #543767;
+}
+
+.moto{
+    font-size: 80px;
+    margin-bottom: 0px;
+}
+
+.MT{
+    margin-top: 50px;
+}
+
+.left{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+
+
+.right{
+    background: url('../image/background.jpg');
+    background-size: cover;
+    background-position: 0px 0px;
+    min-height: 800px;
+}
